@@ -1,0 +1,12 @@
+/cmake-build-*/
+/pkg/
+/src/
+/*.pkg.tar.zst
+
+# perceptron library
+/layer.cpp
+/layer.hpp
+/matrix.cpp
+/matrix.hpp
+/perceptron.cpp
+/perceptron.hpp
